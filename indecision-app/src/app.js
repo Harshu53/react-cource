@@ -40,7 +40,7 @@ class IndecisionApp extends React.Component {
     }
 
     render() {
-        const subtitle = 'Put your life in the hands of a Computer.';
+        const subtitle = 'React is the dream.';
 
         return (
             <div>
